@@ -9,7 +9,7 @@ const Newsletter = () => {
             Your Travel Journey Starts Here
         </h1>
         <p className='mt-3 text-white text-xs sm:text-sm'>
-            Sign up and we'll send the best deals to you
+            Sign up and well send the best deals to you
         </p>
         <div className='w-full'>
             <input 
@@ -24,5 +24,4 @@ const Newsletter = () => {
     </div>
   )
 }
-
 export default Newsletter
