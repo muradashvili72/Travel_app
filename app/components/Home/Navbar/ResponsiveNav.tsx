@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 import Nav from './Nav'
 
 const ResponsiveNav = () => {
-  const [showNav, setShowNav] = useState(false);
+  const [_showNav, setShowNav] = useState(false);
   const handNavShow = () => setShowNav(true);
   // const handleCloseNav = () => setShowNav(false);
   return (
